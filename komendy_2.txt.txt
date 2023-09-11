@@ -1,5 +1,5 @@
 Przykład komendy uruchamiającej html-validate
 
-npm html-validate index.html
+npm run test:html
 
 npx html-validate index.html
