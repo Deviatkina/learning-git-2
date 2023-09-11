@@ -1,0 +1,5 @@
+Przykład komendy uruchamiającej html-validate
+
+npm html-validate index.html
+
+npx html-validate index.html

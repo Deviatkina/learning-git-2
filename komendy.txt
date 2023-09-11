@@ -1,0 +1,3 @@
+Przykład komendy uruchamiającej html-validate
+
+npm exec html-validate *.html
